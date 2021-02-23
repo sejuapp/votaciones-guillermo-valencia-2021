@@ -10,7 +10,7 @@ $db_nombre="votaciones-2021"; // Nombre de la Base de Datos que se desea utiliza
 
 $db_user="root"; // Nombre del usuario con permisos para acceder a la BD
 
-$db_pass="votaciones2021"; // Contrase�a del usuario de la BD
+$db_pass="superadmin"; // Contrase�a del usuario de la BD
 
 
 $mysqli = new mysqli($db_host, $db_user, $db_pass, $db_nombre);
